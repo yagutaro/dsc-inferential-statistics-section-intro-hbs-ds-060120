@@ -1,8 +1,8 @@
 
-# Introduction
+# Introduction - Inferential Statistics
 
 ## Introduction
-In this section, you'll learn be introduced to inferential statistics. You'll learn about sampling, the central limit theorem, and the T-distribution.
+In this section, you'll be introduced to inferential statistics. You'll learn about sampling, the central limit theorem, and the T-distribution.
 
 ## Objectives
 You will be able to:
@@ -15,7 +15,7 @@ In this section, we're returning to statistics to broaden and deepen our underst
 
 ### Sampling
 
-We'll start by providing an introduction to the idea of **_Sampling_** - selecting a subset of a population to survey.  We then start to introduce some statistics related to sampling, explaining and showing how to calculuate the standard error.
+We'll start by providing an introduction to the idea of **_Sampling_** - selecting a subset of a population to survey.  We'll then start to introduce some statistics related to sampling by explaining and showing how to calculate the standard error.
 
 ### The Central Limit Theorem
 
@@ -23,7 +23,7 @@ Once we understand a bit about sampling, we'll explore how we can use it by digg
 
 ### The T-Distribution
 
-Finally, we'll end this section by learning about how we can use the **_T-Distribution_** for dealing samples that are smaller, and that have an unknown standard deviation. We'll explore how the T-Distribution works, learn about _Degrees of Freedom_, and then see how we can calculate confidence intervals using our newfound knowledge of the T-Distribution. 
+Finally, we'll end this section by learning about how we can use the **_T-Distribution_** for dealing with samples that are smaller, and that have an unknown standard deviation. We'll explore how the T-Distribution works, learn about _Degrees of Freedom_, and then see how we can calculate confidence intervals using our newfound knowledge of the T-Distribution. 
 
 ## Summary
 
