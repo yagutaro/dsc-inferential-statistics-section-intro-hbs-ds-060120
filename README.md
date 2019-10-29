@@ -1,13 +1,8 @@
 
-# Introduction - Inferential Statistics
+# Central Limit Theorem and Confidence Intervals - Introduction
 
 ## Introduction
 In this section, you'll be introduced to inferential statistics. You'll learn about sampling, the central limit theorem, and the T-distribution.
-
-## Objectives
-You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
 
 ## Distributions and Sampling
 
@@ -23,8 +18,8 @@ Once we understand a bit about sampling, we'll explore how we can use it by digg
 
 ### The T-Distribution
 
-Finally, we'll end this section by learning about how we can use the **_T-Distribution_** for dealing with samples that are smaller, and that have an unknown standard deviation. We'll explore how the T-Distribution works, learn about _Degrees of Freedom_, and then see how we can calculate confidence intervals using our newfound knowledge of the T-Distribution. 
+Finally, we'll end this section by learning about how we can use the **_T-Distribution_** for dealing with samples that are smaller, and that have an unknown standard deviation. We'll explore how the T-Distribution works, learn about *degrees of freedom*, and then see how we can calculate confidence intervals using our newfound knowledge of the T-Distribution. 
 
 ## Summary
 
-While some of this material may seem a little dry, a deep understanding of and intuition for distributions and sampling will be important in your career as a data scientist. This knowledge will help you avoid making mistakes in your EDA, feature selection, and modeling work which could lead to faulty predictions from your models.
+While some of this material may seem a little dry, a deep understanding of and intuition for distributions and sampling will be important in your career as a data scientist. This knowledge will help you avoid making mistakes in your EDA (exploratory data analysis), feature selection, and modeling work, which could lead to faulty predictions from your models.
